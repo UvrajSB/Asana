@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Asana</string>
+    <string name="pose_1_name">King Pigeon Pose</string>
+    <string name="pose_1_desc">Stretches the entire front of the body, the ankles, thighs and groins, bdomen and chest, and throat\nStretches the deep hip flexors (psoas)\nStrengthens back muscles\nImproves posture\nStimulates the organs of the abdomen and neck</string>
+    <string name="pose_2_name">One-Legged King Pigeon Pose II</string>
+    <string name="pose_2_desc">Explore how you’re using your breath in this pose—you should be breathing without strain, steadily and regularly.\nFocus on stabilizing your hips by picturing the sides of your pelvis squeezing in toward your center.\nLift your shoulder blades and try to rotate them slightly upward, being sure to support your neck as it extends backward.</string>
+    <string name="pose_3_name">Crow Pose | Crane Pose</string>
+    <string name="pose_3_desc">Strengthened abdominal muscles, arms, and wrists, and a stretch in your upper back and inner groin. But perhaps even better, you may enjoy the confidence that comes with facing your fears and somehow managing to hold it all together while simultaneously letting go.</string>
+    <string name="pose_4_name">Bound Angle Pose</string>
+    <string name="pose_4_desc">Bound Angle Pose can help you recover after running or other activities. It improves postural and body awareness and stretches your groins, inner thigh muscles (adductors), and front of your thighs (quadriceps).</string>
+
+</resources>
